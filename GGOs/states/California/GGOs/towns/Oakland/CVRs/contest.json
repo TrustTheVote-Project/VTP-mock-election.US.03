@@ -1,0 +1,40 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0053/c938371448",
+        "choices": [
+            {
+                "Mary Roberts": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Robert Mary": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Jane Doe": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "John Doe": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "Tom Jones": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "mayor",
+        "selection": [
+            4
+        ],
+        "tally": "plurality",
+        "uid": "0053"
+    }
+}
