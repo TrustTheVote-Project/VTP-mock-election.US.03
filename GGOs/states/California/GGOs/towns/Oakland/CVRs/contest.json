@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0052/8099d55bfd",
+        "choices": [
+            {
+                "Cold Hot": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Pink Blue": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0052"
+    }
+}
