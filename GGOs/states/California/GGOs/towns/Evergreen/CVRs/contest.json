@@ -1,0 +1,31 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0001/176a91a446",
+        "choices": [
+            {
+                "Yellow Green": {
+                    "party": "PartyA"
+                }
+            },
+            {
+                "Blue Red": {
+                    "party": "PartyB"
+                }
+            },
+            {
+                "Gold Silver": {
+                    "party": "PartyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
+        "selection": [
+            1,
+            0,
+            2
+        ],
+        "tally": "rcv",
+        "uid": "0001"
+    }
+}
