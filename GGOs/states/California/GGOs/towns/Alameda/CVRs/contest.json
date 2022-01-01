@@ -1,0 +1,31 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0004/32060ea9c9",
+        "choices": [
+            {
+                "Jim Green": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Mary Orange": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Jane Brown": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
+        "name": "Park Ranger",
+        "selection": [
+            0,
+            2,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0004"
+    }
+}
