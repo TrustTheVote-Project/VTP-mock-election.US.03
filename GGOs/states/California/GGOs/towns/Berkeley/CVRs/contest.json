@@ -1,0 +1,26 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0028/77b85ea317",
+        "choices": [
+            {
+                "Cold Hot": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Pink Blue": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0028",
+        "write-in": true
+    }
+}
