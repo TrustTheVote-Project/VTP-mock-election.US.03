@@ -1,0 +1,43 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0013/190cf5add8",
+        "choices": [
+            {
+                "Mary Roberts": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Robert Mary": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Jane Doe": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "John Doe": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "Tom Jones": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
+        "selection": [
+            2,
+            1,
+            4,
+            0,
+            3
+        ],
+        "tally": "rcv",
+        "uid": "0013"
+    }
+}
