@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0044/ec41863c15",
+        "choices": [
+            {
+                "Cold Hot": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Pink Blue": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0044"
+    }
+}
