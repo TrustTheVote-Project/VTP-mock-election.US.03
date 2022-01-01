@@ -1,0 +1,29 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0007/3fa65b786f",
+        "choices": [
+            {
+                "Yoda": "partyA"
+            },
+            {
+                "Tom Hans": "partyB"
+            },
+            {
+                "10 11": "partyB"
+            },
+            {
+                "12 13": "partyB"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
+        "name": "Park Administrator",
+        "selection": [
+            0,
+            2,
+            3,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0007"
+    }
+}
