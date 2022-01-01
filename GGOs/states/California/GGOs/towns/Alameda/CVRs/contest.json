@@ -1,0 +1,41 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0012/63bb6654b6",
+        "choices": [
+            {
+                "Cold Hot": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Pink1 Blue1": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Pink2 Blue2": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Pink3 Blue3": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Pink4 Blue4": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state senate",
+        "selection": [
+            4,
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0012"
+    }
+}
