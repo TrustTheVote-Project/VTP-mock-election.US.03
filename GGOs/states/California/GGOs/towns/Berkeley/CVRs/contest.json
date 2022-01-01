@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0000/0df651678d",
+        "choices": [
+            {
+                "Foo Bar": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Goo Car": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "US president",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0000"
+    }
+}
