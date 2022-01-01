@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0002/04385bca5b",
+        "choices": [
+            {
+                "Up Down": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Left Right": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0002"
+    }
+}
