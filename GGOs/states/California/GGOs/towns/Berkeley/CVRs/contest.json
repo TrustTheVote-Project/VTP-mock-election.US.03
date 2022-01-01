@@ -1,0 +1,44 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0029/d81c7b5c60",
+        "choices": [
+            {
+                "Mary Roberts": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Robert Mary": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Jane Doe": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "John Doe": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "Tom Jones": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "mayor",
+        "selection": [
+            2,
+            4,
+            1,
+            3,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0029",
+        "write-in": true
+    }
+}
