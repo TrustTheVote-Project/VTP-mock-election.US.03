@@ -1,0 +1,26 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0027/5ab72d9aff",
+        "choices": [
+            {
+                "Up Down": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Left Right": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0027",
+        "write-in": true
+    }
+}
