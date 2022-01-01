@@ -1,0 +1,31 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0010/2cebec9f8e",
+        "choices": [
+            {
+                "7 8": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "9 10": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "11 12": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
+        "name": "US house",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0010"
+    }
+}
