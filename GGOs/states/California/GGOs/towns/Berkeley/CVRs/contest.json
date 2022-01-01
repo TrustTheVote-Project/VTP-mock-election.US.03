@@ -1,0 +1,32 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0032/4f7ac3423a",
+        "choices": [
+            {
+                "Q Bbb": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "W Ccc": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "e Ddd": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 3",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0032",
+        "write-in": true
+    }
+}
