@@ -1,0 +1,30 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0022/5cf9366481",
+        "choices": [
+            {
+                "Q One": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "W Two": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "e Foo": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "alderman ward 1",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0022"
+    }
+}
