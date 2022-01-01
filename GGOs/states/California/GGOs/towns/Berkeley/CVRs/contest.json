@@ -1,0 +1,37 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0006/dafc055739",
+        "choices": [
+            {
+                "Liam Berger": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Hey There": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Luke Skywalker": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Anne Betty": {
+                    "party": "PartyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
+        "name": "Park Ranger",
+        "selection": [
+            3,
+            0,
+            1,
+            2
+        ],
+        "tally": "rcv",
+        "uid": "0006"
+    }
+}
