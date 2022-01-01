@@ -1,0 +1,32 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0040/169d9570da",
+        "choices": [
+            {
+                "Q Bbb": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "W Ccc": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "e Ddd": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "name": "alderman ward 3",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0040",
+        "write-in": true
+    }
+}
