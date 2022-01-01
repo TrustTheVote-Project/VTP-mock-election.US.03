@@ -1,0 +1,31 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0015/70ebf9fbc9",
+        "choices": [
+            {
+                "Q One": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "W Two": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "e Foo": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 2",
+        "selection": [
+            2,
+            1,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0015"
+    }
+}
