@@ -1,0 +1,31 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0048/2972228f20",
+        "choices": [
+            {
+                "Q Bbb": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "W Ccc": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "e Ddd": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "name": "alderman ward 3",
+        "selection": [
+            0,
+            2,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0048"
+    }
+}
