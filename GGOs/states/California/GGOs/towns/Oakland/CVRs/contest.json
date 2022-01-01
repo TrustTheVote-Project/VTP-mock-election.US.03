@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0051/654c058ead",
+        "choices": [
+            {
+                "Up Down": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Left Right": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0051"
+    }
+}
