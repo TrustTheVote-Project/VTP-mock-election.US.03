@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0008/64a2139838",
+        "choices": [
+            {
+                "Hans Solo": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Someone Else": {
+                    "party": "PartyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "max": 1,
+        "name": "Park Ranger",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0008"
+    }
+}
