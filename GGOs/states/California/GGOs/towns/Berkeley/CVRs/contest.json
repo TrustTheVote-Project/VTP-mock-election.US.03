@@ -1,0 +1,20 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0031/a52d14bbbe",
+        "choices": {
+            "Q One": "partyC",
+            "W Two": "partyC",
+            "e Foo": "partyC"
+        },
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 2",
+        "selection": [
+            2,
+            0,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0031",
+        "write-in": true
+    }
+}
