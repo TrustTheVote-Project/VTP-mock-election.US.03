@@ -1,0 +1,18 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0042/7a2c7eb82a",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0042",
+        "win-by": "2/3"
+    }
+}
