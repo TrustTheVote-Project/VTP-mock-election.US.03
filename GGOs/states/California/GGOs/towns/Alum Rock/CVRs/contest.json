@@ -1,0 +1,40 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0021/34c64585f7",
+        "choices": [
+            {
+                "Mary Roberts": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Robert Mary": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "Jane Doe": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "John Doe": {
+                    "party": "partyC"
+                }
+            },
+            {
+                "Tom Jones": {
+                    "party": "partyC"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "mayor",
+        "selection": [
+            4
+        ],
+        "tally": "plurality",
+        "uid": "0021"
+    }
+}
