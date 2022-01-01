@@ -1,0 +1,31 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0005/5a1ba2b27e",
+        "choices": [
+            {
+                "Hey There": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Ta Da": {
+                    "party": "partyB"
+                }
+            },
+            {
+                "So Ho": {
+                    "party": "partyc"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
+        "name": "Park Administrator",
+        "selection": [
+            2,
+            0,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0005"
+    }
+}
