@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0043/7794c3f7f1",
+        "choices": [
+            {
+                "Up Down": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Left Right": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0043"
+    }
+}
