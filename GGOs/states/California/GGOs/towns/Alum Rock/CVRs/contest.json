@@ -1,0 +1,25 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0019/9e2891d213",
+        "choices": [
+            {
+                "Up Down": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Left Right": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0019"
+    }
+}
