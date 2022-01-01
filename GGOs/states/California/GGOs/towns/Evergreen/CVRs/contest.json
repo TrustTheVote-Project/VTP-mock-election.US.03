@@ -1,0 +1,26 @@
+{
+    "CVR": {
+        "cast_branch": "CVRs/0036/eef3853f09",
+        "choices": [
+            {
+                "Cold Hot": {
+                    "party": "partyA"
+                }
+            },
+            {
+                "Pink Blue": {
+                    "party": "partyB"
+                }
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0036",
+        "write-in": true
+    }
+}
