@@ -1,0 +1,76 @@
+---
+contests:
+- state representative:
+    tally: plurality
+    choices:
+    - Up Down:
+        party: partyA
+    - Left Right:
+        party: partyB
+    write-in: yes
+- state senate:
+    tally: plurality
+    choices:
+    - Cold Hot:
+        party: partyA
+    - Pink Blue:
+        party: partyB
+    write-in: True
+- mayor:
+    tally: rcv
+    write-in: yes
+    choices:
+    - Mary Roberts:
+        party: partyA
+    - Robert Mary:
+        party: partyB
+    - Jane Doe:
+        party: partyB
+    - John Doe:
+        party: partyC
+    - Tom Jones:
+        party: partyC
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+    write-in: yes
+- alderman ward 2:
+    tally: rcv
+    choices:
+      Q One: partyC
+      W Two: partyC
+      e Foo: partyC
+    write-in: yes
+- alderman ward 3:
+    tally: rcv
+    choices:
+    - Q Bbb:
+        party: partyC
+    - W Ccc:
+        party: partyC
+    - e Ddd:
+        party: partyC
+    write-in: yes
+- Question 1 - school budget override:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+voting centers:
+- Berkeley Senior Center:
+    street: 4321 Salem St
+    id: 000010
+submodules: []

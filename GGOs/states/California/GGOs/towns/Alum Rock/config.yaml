@@ -1,0 +1,73 @@
+---
+contests:
+- state representative:
+    tally: plurality
+    choices:
+    - Up Down:
+        party: partyA
+    - Left Right:
+        party: partyB
+- state senate:
+    tally: plurality
+    choices:
+    - Cold Hot:
+        party: partyA
+    - Pink Blue:
+        party: partyB
+- mayor:
+    tally: plurality
+    choices:
+    - Mary Roberts:
+        party: partyA
+    - Robert Mary:
+        party: partyB
+    - Jane Doe:
+        party: partyB
+    - John Doe:
+        party: partyC
+    - Tom Jones:
+        party: partyC
+- alderman ward 1:
+    tally: plurality
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 2:
+    tally: plurality
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 3:
+    tally: plurality
+    choices:
+    - Q Bbb:
+        party: partyC
+    - W Ccc:
+        party: partyC
+    - e Ddd:
+        party: partyC
+- Question 1 - accept Pine Street as an official town road:
+    tally: plurality
+    win-by: 1/2
+    choices:
+    - yes
+    - no
+- Question 2 - hire a sustainability person:
+    tally: plurality
+    win-by: 1/2
+    choices:
+    - yes
+    - no
+voting centers:
+- Alum Rock Center:
+    street: 4321 A Street
+    id: 000002
+submodules: []

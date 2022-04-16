@@ -1,0 +1,81 @@
+---
+contests:
+- state representative:
+    tally: plurality
+    max: 2
+    write-in: true
+    choices:
+    - Up Down:
+        party: partyA
+    - Left Right:
+        party: partyB
+- state senate:
+    tally: plurality
+    max: 2
+    choices:
+    - Cold Hot:
+        party: partyA
+    - Pink1 Blue1:
+        party: partyB
+    - Pink2 Blue2:
+        party: partyB
+    - Pink3 Blue3:
+        party: partyB
+    - Pink4 Blue4:
+        party: partyB
+- mayor:
+    tally: rcv
+    choices:
+    - Mary Roberts:
+        party: partyA
+    - Robert Mary:
+        party: partyB
+    - Jane Doe:
+        party: partyB
+    - John Doe:
+        party: partyC
+    - Tom Jones:
+        party: partyC
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 2:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 3:
+    tally: rcv
+    choices:
+    - Q Bbb:
+        party: partyC
+    - W Ccc:
+        party: partyC
+    - e Ddd:
+        party: partyC
+- Question 1 - school budget override:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+voting centers:
+- Alameda Senior Center:
+    street: 4321 B St
+    id: 000003
+submodules: []

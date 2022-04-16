@@ -1,0 +1,72 @@
+---
+contests:
+- state representative:
+    tally: plurality
+    choices:
+    - Up Down:
+        party: partyA
+    - Left Right:
+        party: partyB
+- state senate:
+    tally: plurality
+    choices:
+    - Cold Hot:
+        party: partyA
+    - Pink Blue:
+        party: partyB
+- mayor:
+    tally: rcv
+    choices:
+    - Mary Roberts:
+        party: partyA
+    - Robert Mary:
+        party: partyB
+    - Jane Doe:
+        party: partyB
+    - John Doe:
+        party: partyC
+    - Tom Jones:
+        party: partyC
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 2:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 3:
+    tally: rcv
+    choices:
+    - Q Bbb:
+        party: partyC
+    - W Ccc:
+        party: partyC
+    - e Ddd:
+        party: partyC
+- Question 1 - school budget override:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 3/5
+    choices:
+    - yes
+    - no
+voting centers:
+- Milpitas Senior Center:
+    address: 4321 C Street
+    id: 000006
+submodules: []

@@ -1,0 +1,9 @@
+---
+unique-ballots:
+- addresses:
+  - .*
+  ggos:
+  - GGOs/states/California
+  - GGOs/states/California/GGOs/counties/Alameda
+  - GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B
+  - GGOs/states/California/GGOs/towns/Berkeley

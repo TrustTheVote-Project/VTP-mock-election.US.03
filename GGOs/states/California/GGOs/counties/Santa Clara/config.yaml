@@ -1,0 +1,12 @@
+---
+contests:
+- US house:
+    tally: rcv
+    choices:
+    - 7 8:
+        party: partyA
+    - 9 10:
+        party: partyA
+    - 11 12:
+        party: partyB
+submodules: []

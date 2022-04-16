@@ -1,0 +1,20 @@
+---
+contests:
+- Park Ranger:
+    tally: plurality
+    choices:
+    - Hans Solo:
+        party: partyB
+    - Someone Else:
+        party: PartyC
+- Park Administrator:
+    tally: plurality
+    max: 2
+    choices:
+    - Tommy:
+        party: partyA
+    - 111 222:
+        party: partyB
+    - 333 444:
+        party: partyB
+submodules: []

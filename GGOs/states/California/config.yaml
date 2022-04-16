@@ -1,0 +1,37 @@
+---
+contests:
+- US president:
+    tally: plurality
+    choices:
+    - Foo Bar:
+        party: partyA
+    - Goo Car:
+        party: partyB
+- US senate:
+    tally: rcv
+    choices:
+    - Yellow Green:
+        party: PartyA
+    - Blue Red:
+        party: PartyB
+    - Gold Silver:
+        party: PartyB
+- governor:
+    tally: plurality
+    choices:
+    - Up Down:
+        party: partyA
+    - Left Right:
+        party: partyB
+GGOs:
+  counties:
+  - Alameda
+  - Santa Clara
+  towns:
+  - Alameda
+  - Alum Rock
+  - Berkeley
+  - Evergreen
+  - Milpitas
+  - Oakland
+submodules: []

@@ -1,0 +1,31 @@
+---
+contests:
+- alderman ward 3:
+    tally: plurality
+    choices:
+    - Q Bbb:
+        party: partyC
+    - W Ccc:
+        party: partyC
+    - e Ddd:
+        party: partyC
+- Question 1 - paint firehydrants green:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 2 - paint watertower green:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 3 - paint crosswalks yellow:
+    tally: plurality
+    choices:
+    - yes
+    - no
+voting centers:
+- Oakland Town Center Building 2:
+    address: 222 Bar Street
+    id: 000200
+submodules: []

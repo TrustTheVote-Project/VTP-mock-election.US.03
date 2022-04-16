@@ -1,0 +1,21 @@
+---
+contests:
+- Park Ranger:
+    tally: rcv
+    choices:
+    - Jim Green:
+        party: partyA
+    - Mary Orange:
+        party: partyB
+    - Jane Brown:
+        party: partyC
+- Park Administrator:
+    tally: rcv
+    choices:
+    - Hey There:
+        party: partyA
+    - Ta Da:
+        party: partyB
+    - So Ho:
+        party: partyc
+submodules: []

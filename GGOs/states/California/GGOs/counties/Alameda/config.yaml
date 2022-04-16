@@ -1,0 +1,14 @@
+---
+contests:
+- County Clerk:
+    tally: plurality
+    choices:
+    - Roger Rabbit
+    - Huckleberry Finn
+    - Captain Kirk
+GGOs:
+  Parks and Recreation:
+  - Zone A
+  - Zone B
+  - Zone C
+submodules: []

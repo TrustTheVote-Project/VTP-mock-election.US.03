@@ -1,0 +1,60 @@
+---
+GGOs:
+  councildistricts:
+  - Council District 1
+  - Council District 2
+  - Council District 3
+contests:
+- state representative:
+    tally: plurality
+    choices:
+    - Up Down:
+        party: partyA
+    - Left Right:
+        party: partyB
+- state senate:
+    tally: plurality
+    choices:
+    - Cold Hot:
+        party: partyA
+    - Pink Blue:
+        party: partyB
+- mayor:
+    tally: plurality
+    choices:
+    - Mary Roberts:
+        party: partyA
+    - Robert Mary:
+        party: partyB
+    - Jane Doe:
+        party: partyB
+    - John Doe:
+        party: partyC
+    - Tom Jones:
+        party: partyC
+- school board:
+    tally: plurality
+    max: 3
+    choices:
+    - asd asd
+    - qwe qwe
+    - ert ert
+    - rty rty
+    - fgh fgh
+    - tyu tyu
+- Question 1 - school budget override:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+voting centers:
+- Oakland Senior Center:
+    address: 4321 Salem St
+    id: 000009
+submodules: []

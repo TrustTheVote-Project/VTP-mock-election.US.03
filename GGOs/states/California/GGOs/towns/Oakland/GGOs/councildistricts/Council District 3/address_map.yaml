@@ -1,0 +1,11 @@
+---
+unique-ballots:
+- addresses:
+  - .* Road
+# for testing a double address match
+  - .* Thruway
+  ggos:
+  - GGOs/states/California
+  - GGOs/states/California/GGOs/counties/Alameda
+  - GGOs/states/California/GGOs/towns/Oakland
+  - GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3

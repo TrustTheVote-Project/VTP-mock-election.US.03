@@ -1,0 +1,9 @@
+---
+unique-ballots:
+- addresses:
+  - .*
+  ggos:
+  - GGOs/states/California
+  - GGOs/states/California/GGOs/counties/Santa Clara
+  - GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C
+  - GGOs/states/California/GGOs/towns/Milpitas

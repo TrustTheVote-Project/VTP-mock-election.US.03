@@ -1,0 +1,21 @@
+---
+contests:
+- Park Ranger:
+    tally: rcv
+    choices:
+    - Liam Berger:
+        party: partyA
+    - Hey There:
+        party: partyA
+    - Luke Skywalker:
+        party: partyB
+    - Anne Betty:
+        party: PartyC
+- Park Administrator:
+    tally: rcv
+    choices:
+    - Yoda: partyA
+    - Tom Hans: partyB
+    - 10 11: partyB
+    - 12 13: partyB
+submodules: []

@@ -1,0 +1,21 @@
+---
+contests:
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- Question 1 - paint firehydrants blue:
+    tally: plurality
+    choices:
+    - yes
+    - no
+voting centers:
+- Oakland Town Center Building 1:
+    address: 111 Bar Street
+    id: 000100
+submodules: []

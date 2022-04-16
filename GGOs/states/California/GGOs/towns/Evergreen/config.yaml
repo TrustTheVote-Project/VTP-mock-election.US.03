@@ -1,0 +1,76 @@
+---
+contests:
+- state representative:
+    tally: plurality
+    write-in: yes
+    choices:
+    - Up Down:
+        party: partyA
+    - Left Right:
+        party: partyB
+- state senate:
+    tally: plurality
+    choices:
+    - Cold Hot:
+        party: partyA
+    - Pink Blue:
+        party: partyB
+    write-in: yes
+- mayor:
+    tally: rcv
+    write-in: yes
+    choices:
+    - Mary Roberts:
+        party: partyA
+    - Robert Mary:
+        party: partyB
+    - Jane Doe:
+        party: partyB
+    - John Doe:
+        party: partyC
+    - Tom Jones:
+        party: partyC
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 2:
+    tally: rcv
+    choices:
+    - Q One:
+        party: partyC
+    - W Two:
+        party: partyC
+    - e Foo:
+        party: partyC
+- alderman ward 3:
+    tally: rcv
+    write-in: yes
+    choices:
+    - Q Bbb:
+        party: partyC
+    - W Ccc:
+        party: partyC
+    - e Ddd:
+        party: partyC
+- Question 1 - school budget override:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+voting centers:
+- Evergreen Senior Center:
+    address: 4321 Salem St
+    id: 000001
+submodules: []
